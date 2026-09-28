@@ -49,9 +49,6 @@ Una vez arrancados los contenedores se puede acceder desde:
 http://localhost:8080
 ```
  
-Aquí debe mostrarse la conexión correcta entre PHP y MySQL.
- 
-**(Insertar captura de pantalla aquí)**
  
 ## ¿Por qué utilizar Docker?
  
