@@ -34,7 +34,7 @@ $destrezaTxt = '11';
 $inteligenciaTxt = '19';
 $constitucionTxt = '10';
 
-$experienciaTxt = '3120';
+$experienciaTxt = '4000';
 $vidaActualTxt = '41';
 $oroTxt = '987.4';
 
